@@ -36,4 +36,4 @@ If you have some difficulty understanding this then you can always google your p
 
 Other fields are not required..
 
-For more information visit [This Site](http://www.yourownlinux.com/2015/08/etc-shadow-file-format-in-linux-explained.html).
+For more information about the shadow file visit [This Site](http://www.yourownlinux.com/2015/08/etc-shadow-file-format-in-linux-explained.html).
