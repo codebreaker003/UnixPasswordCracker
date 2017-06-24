@@ -12,7 +12,7 @@ You should have a basic knowledge of hashing, cryptography and python
 ### understanding the components of a shadow file
 
 This is a sample shadow file text
-```dedsec:$6$9PUOn12d$NdIVCV32guKuwx/habJ2DokF1.jUWBcV5U8OPI3v0PVIjoyFAIEc95mKvINhkFiz3O.Wsoxw97UjX8SEzB6240:17337:0:99999:7:::``` 
+dedsec:$6$9PUOn12d$NdIVCV32guKuwx/habJ2DokF1.jUWBcV5U8OPI3v0PVIjoyFAIEc95mKvINhkFiz3O.Wsoxw97UjX8SEzB6240:17337:0:99999:7:: 
 
 Let's now dive into the components of this encrypted txt
 * First part (username): the first part is: ```dedsec```, this is defines your username.
