@@ -8,6 +8,7 @@ It can also crack passwords from shadow file of your linux machine which is loca
 ## Prerequisites
 
 You should have a basic knowledge of hashing, cryptography and python
+
 ### understanding the components of a shadow file
 
 This is a sample shadow file text
